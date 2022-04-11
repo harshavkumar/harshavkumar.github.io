@@ -22,7 +22,8 @@ layout: page
 
 <h4>Projects
 <ul>
-	<li><a href="https://github.com/harshavkumar/pointer_generator_model">pointer_generator_mode</a></li>
+	<li><a href="https://github.com/harshavkumar/rescode">rescode(Deep Learning Papers Implementation)</a></li>
+	<li><a href="https://github.com/harshavkumar/pointer_generator_model">pointer_generator_model</a></li>
 	<li><a href="https://github.com/harshavkumar/word_segmentation">word_segmentation</a></li>
 	<li><a href="https://github.com/harshavkumar/violence-detection">violence-detection</a></li>
 	<li><a href="https://github.com/harshavkumar/Text-classification-tensorflow.layer">Text-classification-tensorflow.layer</a></li>
@@ -34,4 +35,5 @@ layout: page
 <ul>
     <li> Offline Handwriting Recognition</li>
     <li> Candidate Space Recognition</li>
+	<li> ResCode</li>
 </ul></h4>
