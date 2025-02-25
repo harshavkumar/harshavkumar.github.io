@@ -3,21 +3,20 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
-<p>As a Machine Learning Engineer, my expertise lies primarily in Computer Vision, Natural Language Processing, and sequence models. I am an aspiring deep learning researcher who thrives on connecting the dots - whether they are ideas from diverse disciplines, people from different teams, or applications across various industries. My strong technical skills are backed by an academic foundation in engineering, statistics, and machine learning.
+<br>
+<br> 🚀 Senior Machine Learning Engineer | AI & Cloud Solutions | Generative AI | NLP | Computer Vision 
+<p>Passionate about harnessing the power of Machine Learning and Computer Vision to make a real-world impact on diverse industries. With a strong academic foundation in engineering, statistics, and machine learning, I thrive on connecting the dots, bridging disciplines, and delivering high-performing AI solutions that solve complex business problems.
 
-<p>My passion is to create impactful machine learning and computer vision technologies that solve real-world business problems. I excel in communicating complex ideas to non-technical stakeholders and have the ability to adapt across verticals to deliver high-performing AI solutions.
+<p>👨‍💻 As a Senior Machine Learning Engineer at Quantiphi, specializing in scalable, real-time cloud solutions on GCP. Driving efficiency in financial workflows through advanced modeling and leading automation of complex document processing for the insurance industry, leveraging custom relation extraction multimodal and generative AI.
 
-<p>Currently, I am serving as a Senior Machine Learning Engineer at Quantiphi, where I am responsible for creating and maintaining models, as well as onboarding new datasets.
+<p>🗺️ Beyond my work in technology, I'm an avid traveler who has explored India extensively, from north to south and east to west. I'm also a passionate football player. I'm always eager to connect over coffee to share experiences and explore new opportunities!
 
-<p>Outside of work, I am an adventurous traveler who has explored 26 cities and counting. I am also an avid football enthusiast.
+<p>📧 Feel free to reach out at harshavk97@gmail.com. Let's create, innovate, and shape the future together! 🌟
 
-<p>I enjoy meeting new people over a cup of coffee. Feel free to reach out to me at harshavk97@gmail.com or send me a DM on Instagram at @_harshav.
-
-<h5>Competencies: Python, C, TensorFlow, Keras, SQL, Flask, 
-<h5>Familiar With: NLP (Natural Language Processing), Computer Vision
-<h5>DevOps Tools: EC2, Auto Scaling, Jenkins Jobs, Docker</h5>
-
-<h5> Miscellaneous Tools: Photoshop, Illustrator, Audition</h5>
+<p>📊 **Key Competencies**: Python, C, TensorFlow, Keras, SQL, Flask
+<br>📚 **Expertise**: Computer Vision, Natural Language Processing, Sequence Models, LLM, RAG, GenAI
+<br>🔧 **DevOps**: EC2, Auto Scaling, Jenkins Jobs, Docker, GCP, Kubeflow
+</p>
 
 <h4>Projects
 <ul>
