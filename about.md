@@ -13,12 +13,19 @@ layout: page
 
 <p>📧 Feel free to reach out at harshavk97@gmail.com. Let's create, innovate, and shape the future together! 🌟
 
-<p>📊 **Key Competencies**: Python, C, TensorFlow, Keras, SQL, Flask
-<br>📚 **Expertise**: Computer Vision, Natural Language Processing, Sequence Models, LLM, RAG, GenAI
-<br>🔧 **DevOps**: EC2, Auto Scaling, Jenkins Jobs, Docker, GCP, Kubeflow
+
+<p>📊 <b>Programming & Frameworks: </b> Python, C/C++, SQL, TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV,
+Hugging Face Transformers
+<br>🔧<b>MLOps & Development Tools:</b> Docker, Git, Flask, REST APIs, LangChain, LlamaIndex, Kubernetes,
+Kubeflow
+<br>🔧 <b>Cloud Platforms: </b> Google Cloud Platform (Cloud Run, Pub/Sub, GKE, Cloud Tasks, Compute Engine), Amazon
+Web Services (EC2, EKS, SQS)
+<br>📚 <b>AI Specializations: </b> Computer Vision, Natural Language Processing, Deep Learning, Document Digitization,
+Information Extraction, Document Classification, Image Classification, Object Detection, Semantic Segmentation,
+Generative AI, Large Language Models, Retrieval Augmented Generation (RAG)
 </p>
 
-<h4>Projects
+<!-- <h4>Projects
 <ul>
 	<li><a href="https://github.com/harshavkumar/rescode">rescode(Deep Learning Papers Implementation)</a></li>
 	<li><a href="https://github.com/harshavkumar/pointer_generator_model">pointer_generator_model</a></li>
@@ -33,4 +40,4 @@ layout: page
 <ul>
     <li> Candidate Space Recognition</li>
 	<li> ResCode</li>
-</ul></h4>
+</ul></h4> -->
