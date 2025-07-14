@@ -11,7 +11,7 @@ layout: page
 
 <p>🗺️ Beyond my work in technology, I'm an avid traveler who has explored India extensively, from north to south and east to west. I'm also a passionate football player. I'm always eager to connect over coffee to share experiences and explore new opportunities!
 
-<p>📧 Feel free to reach out at harshavk97@gmail.com. Let's create, innovate, and shape the future together! 🌟
+<p>📧 Feel free to reach out at harshavkumar.work@gmail.com. Let's create, innovate, and shape the future together! 🌟
 
 
 <p>📊 <b>Programming & Frameworks: </b> Python, C/C++, SQL, TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV,
